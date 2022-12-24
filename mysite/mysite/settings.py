@@ -11,7 +11,6 @@ https://docs.djangoproject.com/en/4.1/ref/settings/
 """
 import os
 from pathlib import Path
-
 from django.templatetags import static
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
@@ -139,7 +138,7 @@ STATICFILES_DIRS = (
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
-EMAIL_HOST = 'smtp.gmail.com'
+EMAIL_HOST = 'stmp.zonetcode.com'
 EMAIL_HOST_USER = 'user1@zonetcode.com'
 EMAIL_HOST_PASSWORD = 'user1'
 EMAIL_PORT = 587
