@@ -2,8 +2,8 @@ from django.shortcuts import render, get_object_or_404
 from django.core.paginator import Paginator, EmptyPage, \
     PageNotAnInteger
 from django.views.generic import ListView
-from .models import Post
-from .form import EmailPostForm
+from .models import Post, Comment
+from .form import EmailPostForm, CommentForm
 from django.core.mail import send_mail
 
 
@@ -57,9 +57,30 @@ def post_detail(request, year, month, day, post):
                              publish__year=year,
                              publish__month=month,
                              publish__day=day)
+
+    # list komen yang aktif dari post ini
+    comments = post.comments.filter(active=True)
+
+    new_comment = None
+    if request.method == 'POST':
+      # komen telah di post
+      comment_form = CommentForm(data=request.POST)
+      if comment_form.is_valid():
+        # buat komen tapi belum di taruh di database
+        new_comment = comment_form.save(commit=False)
+        # assign current post to the comment
+        new_comment.post = post
+        # save komen ke database
+        new_comment.save()
+    else:
+      comment_form = CommentForm()
+
     return render(request,
                   'blog/post/detail.html',
-                  {'post': post})
+                  {'post': post,
+                   'comments': comments,
+                   'new_comment': new_comment,
+                   'comment_form': comment_form})
 
 
 class PostListView(ListView):
