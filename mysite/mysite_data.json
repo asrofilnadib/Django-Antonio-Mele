@@ -1,0 +1,1379 @@
+[
+{
+  "model": "admin.logentry",
+  "pk": 1,
+  "fields": {
+    "action_time": "2022-11-24T01:39:48.246Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "1",
+    "object_repr": "Roger Sumatera",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 2,
+  "fields": {
+    "action_time": "2022-11-28T03:51:45.025Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "3",
+    "object_repr": "Burung Jalak Bali",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 3,
+  "fields": {
+    "action_time": "2022-11-28T03:51:47.285Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "3",
+    "object_repr": "Burung Jalak Bali",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 4,
+  "fields": {
+    "action_time": "2022-11-28T03:52:52.742Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "2",
+    "object_repr": "New title",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 5,
+  "fields": {
+    "action_time": "2022-11-28T03:53:17.736Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "4",
+    "object_repr": "Badak Cula Satu",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 6,
+  "fields": {
+    "action_time": "2022-11-28T03:55:46.053Z",
+    "user": 1,
+    "content_type": 4,
+    "object_id": "2",
+    "object_repr": "Asrofil",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 7,
+  "fields": {
+    "action_time": "2022-11-28T03:56:08.091Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "5",
+    "object_repr": "Covid-19",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 8,
+  "fields": {
+    "action_time": "2022-11-28T03:57:48.843Z",
+    "user": 1,
+    "content_type": 3,
+    "object_id": "1",
+    "object_repr": "Sik-Asik",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 9,
+  "fields": {
+    "action_time": "2022-11-28T03:57:54.705Z",
+    "user": 1,
+    "content_type": 3,
+    "object_id": "1",
+    "object_repr": "Sik-Asik",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 10,
+  "fields": {
+    "action_time": "2022-11-28T04:00:40.365Z",
+    "user": 1,
+    "content_type": 4,
+    "object_id": "2",
+    "object_repr": "asrofilnadibs",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Username\", \"First name\", \"Last name\", \"Email address\", \"Staff status\", \"Superuser status\", \"Groups\", \"User permissions\", \"Last login\", \"Date joined\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 11,
+  "fields": {
+    "action_time": "2022-11-28T04:04:27.157Z",
+    "user": 1,
+    "content_type": 4,
+    "object_id": "1",
+    "object_repr": "admin",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"User permissions\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 12,
+  "fields": {
+    "action_time": "2022-11-28T04:06:19.509Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "6",
+    "object_repr": "Konstitusi",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 13,
+  "fields": {
+    "action_time": "2022-11-28T05:40:52.316Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "7",
+    "object_repr": "Karl Marx Theory",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 14,
+  "fields": {
+    "action_time": "2022-12-24T12:26:47.103Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "5",
+    "object_repr": "Covid-19",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 15,
+  "fields": {
+    "action_time": "2022-12-24T12:53:21.345Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "1",
+    "object_repr": "comment by Asrofil on Badak Cula Satu",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 16,
+  "fields": {
+    "action_time": "2022-12-24T14:02:29.764Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "1",
+    "object_repr": "comment by Asrofil on Badak Cula Satu",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Active\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 17,
+  "fields": {
+    "action_time": "2022-12-24T14:02:36.396Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "1",
+    "object_repr": "comment by Asrofil on Badak Cula Satu",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Active\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 18,
+  "fields": {
+    "action_time": "2022-12-24T14:02:39.677Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "2",
+    "object_repr": "comment by Asrofil on Covid-19",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Active\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 19,
+  "fields": {
+    "action_time": "2022-12-24T14:05:45.487Z",
+    "user": 1,
+    "content_type": 3,
+    "object_id": "1",
+    "object_repr": "Sik-Asik",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 20,
+  "fields": {
+    "action_time": "2022-12-26T02:19:50.785Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "1",
+    "object_repr": "Roger Sumatera",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Tags\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 21,
+  "fields": {
+    "action_time": "2022-12-26T02:56:37.774Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "7",
+    "object_repr": "Karl Marx Theory",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Tags\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 22,
+  "fields": {
+    "action_time": "2022-12-26T03:15:33.655Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "6",
+    "object_repr": "Konstitusi",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Tags\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 23,
+  "fields": {
+    "action_time": "2022-12-26T03:15:42.781Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "7",
+    "object_repr": "Karl Marx Theory",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Tags\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 24,
+  "fields": {
+    "action_time": "2022-12-29T07:15:18.444Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "8",
+    "object_repr": "Markdown POst",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 25,
+  "fields": {
+    "action_time": "2022-12-29T07:15:38.912Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "8",
+    "object_repr": "Markdown Post",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Title\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 26,
+  "fields": {
+    "action_time": "2022-12-29T07:16:14.999Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "8",
+    "object_repr": "Markdown Post",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Body\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 27,
+  "fields": {
+    "action_time": "2022-12-29T07:17:24.519Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "8",
+    "object_repr": "Markdown Post",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Body\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 28,
+  "fields": {
+    "action_time": "2022-12-29T07:18:26.256Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "8",
+    "object_repr": "Markdown Post",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Body\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 29,
+  "fields": {
+    "action_time": "2022-12-29T07:18:59.225Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "8",
+    "object_repr": "Markdown Post",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Body\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 30,
+  "fields": {
+    "action_time": "2022-12-29T07:48:37.549Z",
+    "user": 1,
+    "content_type": 11,
+    "object_id": "2",
+    "object_repr": "localhost:8000",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 1,
+  "fields": {
+    "name": "Can add log entry",
+    "content_type": 1,
+    "codename": "add_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 2,
+  "fields": {
+    "name": "Can change log entry",
+    "content_type": 1,
+    "codename": "change_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 3,
+  "fields": {
+    "name": "Can delete log entry",
+    "content_type": 1,
+    "codename": "delete_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 4,
+  "fields": {
+    "name": "Can view log entry",
+    "content_type": 1,
+    "codename": "view_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 5,
+  "fields": {
+    "name": "Can add permission",
+    "content_type": 2,
+    "codename": "add_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 6,
+  "fields": {
+    "name": "Can change permission",
+    "content_type": 2,
+    "codename": "change_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 7,
+  "fields": {
+    "name": "Can delete permission",
+    "content_type": 2,
+    "codename": "delete_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 8,
+  "fields": {
+    "name": "Can view permission",
+    "content_type": 2,
+    "codename": "view_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 9,
+  "fields": {
+    "name": "Can add group",
+    "content_type": 3,
+    "codename": "add_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 10,
+  "fields": {
+    "name": "Can change group",
+    "content_type": 3,
+    "codename": "change_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 11,
+  "fields": {
+    "name": "Can delete group",
+    "content_type": 3,
+    "codename": "delete_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 12,
+  "fields": {
+    "name": "Can view group",
+    "content_type": 3,
+    "codename": "view_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 13,
+  "fields": {
+    "name": "Can add user",
+    "content_type": 4,
+    "codename": "add_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 14,
+  "fields": {
+    "name": "Can change user",
+    "content_type": 4,
+    "codename": "change_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 15,
+  "fields": {
+    "name": "Can delete user",
+    "content_type": 4,
+    "codename": "delete_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 16,
+  "fields": {
+    "name": "Can view user",
+    "content_type": 4,
+    "codename": "view_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 17,
+  "fields": {
+    "name": "Can add content type",
+    "content_type": 5,
+    "codename": "add_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 18,
+  "fields": {
+    "name": "Can change content type",
+    "content_type": 5,
+    "codename": "change_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 19,
+  "fields": {
+    "name": "Can delete content type",
+    "content_type": 5,
+    "codename": "delete_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 20,
+  "fields": {
+    "name": "Can view content type",
+    "content_type": 5,
+    "codename": "view_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 21,
+  "fields": {
+    "name": "Can add session",
+    "content_type": 6,
+    "codename": "add_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 22,
+  "fields": {
+    "name": "Can change session",
+    "content_type": 6,
+    "codename": "change_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 23,
+  "fields": {
+    "name": "Can delete session",
+    "content_type": 6,
+    "codename": "delete_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 24,
+  "fields": {
+    "name": "Can view session",
+    "content_type": 6,
+    "codename": "view_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 25,
+  "fields": {
+    "name": "Can add post",
+    "content_type": 7,
+    "codename": "add_post"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 26,
+  "fields": {
+    "name": "Can change post",
+    "content_type": 7,
+    "codename": "change_post"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 27,
+  "fields": {
+    "name": "Can delete post",
+    "content_type": 7,
+    "codename": "delete_post"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 28,
+  "fields": {
+    "name": "Can view post",
+    "content_type": 7,
+    "codename": "view_post"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 29,
+  "fields": {
+    "name": "Can add comment",
+    "content_type": 8,
+    "codename": "add_comment"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 30,
+  "fields": {
+    "name": "Can change comment",
+    "content_type": 8,
+    "codename": "change_comment"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 31,
+  "fields": {
+    "name": "Can delete comment",
+    "content_type": 8,
+    "codename": "delete_comment"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 32,
+  "fields": {
+    "name": "Can view comment",
+    "content_type": 8,
+    "codename": "view_comment"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 33,
+  "fields": {
+    "name": "Can add tag",
+    "content_type": 9,
+    "codename": "add_tag"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 34,
+  "fields": {
+    "name": "Can change tag",
+    "content_type": 9,
+    "codename": "change_tag"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 35,
+  "fields": {
+    "name": "Can delete tag",
+    "content_type": 9,
+    "codename": "delete_tag"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 36,
+  "fields": {
+    "name": "Can view tag",
+    "content_type": 9,
+    "codename": "view_tag"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 37,
+  "fields": {
+    "name": "Can add tagged item",
+    "content_type": 10,
+    "codename": "add_taggeditem"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 38,
+  "fields": {
+    "name": "Can change tagged item",
+    "content_type": 10,
+    "codename": "change_taggeditem"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 39,
+  "fields": {
+    "name": "Can delete tagged item",
+    "content_type": 10,
+    "codename": "delete_taggeditem"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 40,
+  "fields": {
+    "name": "Can view tagged item",
+    "content_type": 10,
+    "codename": "view_taggeditem"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 41,
+  "fields": {
+    "name": "Can add site",
+    "content_type": 11,
+    "codename": "add_site"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 42,
+  "fields": {
+    "name": "Can change site",
+    "content_type": 11,
+    "codename": "change_site"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 43,
+  "fields": {
+    "name": "Can delete site",
+    "content_type": 11,
+    "codename": "delete_site"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 44,
+  "fields": {
+    "name": "Can view site",
+    "content_type": 11,
+    "codename": "view_site"
+  }
+},
+{
+  "model": "auth.group",
+  "pk": 1,
+  "fields": {
+    "name": "Sik-Asik",
+    "permissions": [
+      1,
+      9,
+      5,
+      6,
+      7,
+      8,
+      13,
+      14,
+      15,
+      25,
+      26,
+      28,
+      20,
+      21,
+      24
+    ]
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 1,
+  "fields": {
+    "password": "pbkdf2_sha256$390000$20CkaaG1xrLNqlhQYU5pyS$dZSp5T9nXdagv6s0iu0RXSf4RbQ9bcodZTCONQK55z0=",
+    "last_login": "2023-01-03T14:19:34.652Z",
+    "is_superuser": true,
+    "username": "admin",
+    "first_name": "",
+    "last_name": "",
+    "email": "admin@admin.com",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2022-11-24T01:37:28Z",
+    "groups": [],
+    "user_permissions": [
+      1,
+      2,
+      3,
+      4,
+      9,
+      10,
+      11,
+      12,
+      5,
+      6,
+      7,
+      8,
+      13,
+      14,
+      15,
+      16,
+      25,
+      26,
+      27,
+      28,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24
+    ]
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 2,
+  "fields": {
+    "password": "pbkdf2_sha256$390000$nJjcMpd9kNPplc4jU93z1C$oFYluklOWeWpKhmOZcAsT62muMA6L/QTdjIY/txgTks=",
+    "last_login": "2022-11-28T04:00:16Z",
+    "is_superuser": true,
+    "username": "asrofilnadibs",
+    "first_name": "Asrofil",
+    "last_name": "Nadib",
+    "email": "asrofilnadibs28@gmail.com",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2019-06-04T03:55:45Z",
+    "groups": [
+      1
+    ],
+    "user_permissions": [
+      1,
+      2,
+      3,
+      4,
+      9,
+      10,
+      12,
+      5,
+      6,
+      8,
+      13,
+      14,
+      16,
+      25,
+      26,
+      27,
+      28,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24
+    ]
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 1,
+  "fields": {
+    "app_label": "admin",
+    "model": "logentry"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 2,
+  "fields": {
+    "app_label": "auth",
+    "model": "permission"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 3,
+  "fields": {
+    "app_label": "auth",
+    "model": "group"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 4,
+  "fields": {
+    "app_label": "auth",
+    "model": "user"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 5,
+  "fields": {
+    "app_label": "contenttypes",
+    "model": "contenttype"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 6,
+  "fields": {
+    "app_label": "sessions",
+    "model": "session"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 7,
+  "fields": {
+    "app_label": "blog",
+    "model": "post"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 8,
+  "fields": {
+    "app_label": "blog",
+    "model": "comment"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 9,
+  "fields": {
+    "app_label": "taggit",
+    "model": "tag"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 10,
+  "fields": {
+    "app_label": "taggit",
+    "model": "taggeditem"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 11,
+  "fields": {
+    "app_label": "sites",
+    "model": "site"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "4jt4v4293q4aoysnw4hgwfmq21vv6ty9",
+  "fields": {
+    "session_data": ".eJxVjEEOwiAQRe_C2hCgyHRcuvcMhIFBqgaS0q6Md7dNutDte-__t_BhXYpfO89-SuIitDj9MgrxyXUX6RHqvcnY6jJPJPdEHrbLW0v8uh7t30EJvWxr5IERDCqrmY1Fh84MmTfGY1SIGYlUHpFsPpMLjFoBgDKQTIABSHy-0q03cw:1p7nD5:dLD_oAU0wHm-wgULaweFI9zBOGyBzYNMkd53yNXp-w4",
+    "expire_date": "2023-01-04T00:43:51.550Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "aj9ohfnizymsckc7ro0hof86jpi6omrh",
+  "fields": {
+    "session_data": ".eJxVjEEOwiAQRe_C2hCgyHRcuvcMhIFBqgaS0q6Md7dNutDte-__t_BhXYpfO89-SuIitDj9MgrxyXUX6RHqvcnY6jJPJPdEHrbLW0v8uh7t30EJvWxr5IERDCqrmY1Fh84MmTfGY1SIGYlUHpFsPpMLjFoBgDKQTIABSHy-0q03cw:1oy1BO:ALUh6LvPPWHzEInrR5tASklflEK2Bie7Aw2o-LlRAlU",
+    "expire_date": "2022-12-08T01:37:42.031Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "e8aypjvpczaj5yp7d52od1w68ix2uwlk",
+  "fields": {
+    "session_data": ".eJxVjEEOwiAQRe_C2hCgyHRcuvcMhIFBqgaS0q6Md7dNutDte-__t_BhXYpfO89-SuIitDj9MgrxyXUX6RHqvcnY6jJPJPdEHrbLW0v8uh7t30EJvWxr5IERDCqrmY1Fh84MmTfGY1SIGYlUHpFsPpMLjFoBgDKQTIABSHy-0q03cw:1pCi8c:1IfPBYbWWezxBk2dkCDbMi9w_kWaGpuKoU78KkK2hr4",
+    "expire_date": "2023-01-17T14:19:34.656Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "ggphwrl0p7i2wccs70eniy13fkbfqw0w",
+  "fields": {
+    "session_data": ".eJxVjEEOwiAQRe_C2hCgyHRcuvcMhIFBqgaS0q6Md7dNutDte-__t_BhXYpfO89-SuIitDj9MgrxyXUX6RHqvcnY6jJPJPdEHrbLW0v8uh7t30EJvWxr5IERDCqrmY1Fh84MmTfGY1SIGYlUHpFsPpMLjFoBgDKQTIABSHy-0q03cw:1ozVQ5:aZflxb1jFgwl_VYXv9bUKmIInWhnow2OBZ3rnLQTfTE",
+    "expire_date": "2022-12-12T04:07:01.870Z"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 1,
+  "fields": {
+    "title": "Roger Sumatera",
+    "slug": "roger-sumatera",
+    "author": 1,
+    "body": "this is just a test for seing if there's any problem",
+    "publish": "2022-11-24T01:38:49Z",
+    "created": "2022-11-24T01:39:48.245Z",
+    "updated": "2022-12-26T02:19:50.778Z",
+    "status": "published"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 3,
+  "fields": {
+    "title": "Burung Jalak Bali",
+    "slug": "burung-jalak-bali",
+    "author": 1,
+    "body": "Jalak Bali (Leucopsar rothschildi) adalah sejenis burung pengicau berukuran sedang, dengan panjang lebih kurang 25 cm,[1] dari suku Sturnidae. Ia turut dikenali sebagai Curik Ketimbang Jalak.[2] Jalak Bali hanya ditemukan di hutan bagian barat Pulau Bali dan merupakan hewan endemik Indonesia. Burung ini juga merupakan satu-satunya spesies endemik Bali dan pada tahun 1991 dinobatkan sebagai lambang fauna Provinsi Bali.\r\n\r\nJalak Bali ditemukan pertama kali pada tahun 1910. Nama ilmiah Jalak Bali dinamakan menurut pakar hewan berkebangsaan Inggris, Walter Rothschild, sebagai orang pertama yang mendeskripsikan spesies ini ke dunia pengetahuan pada tahun 1912.",
+    "publish": "2022-11-28T03:51:03Z",
+    "created": "2022-11-28T03:51:45.023Z",
+    "updated": "2022-11-28T03:51:47.284Z",
+    "status": "published"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 4,
+  "fields": {
+    "title": "Badak Cula Satu",
+    "slug": "badak-cula-satu",
+    "author": 1,
+    "body": "Badak Jawa (Rhinoceros sondaicus), disebut juga Badak sumbu [2], Badak sunda (sesuai dengan nama latinnya) atau badak bercula satu kecil, adalah sebuah anggota famili Rhinocerotidae dan merupakan salah satu dari lima spesies badak yang masih ada. Badak India, yang berbagi genus yang sama, memilki kulit bermosaik yang menyerupai baju baja, yang memiliki kemiripan dengan badak Jawa meskipun ukurannya lebih besar. Badak Jawa memiliki badan dengan panjang 3,1–3,2 m dan tinggi 1,4–1,7 m. Badak Jawa memiliki ukuran cula terkecil dibandingkan dengan cula spesies-spesies badak lainnya sedangkan Badak Jawa betina tidak memiliki cula sama sekali.\r\n\r\nBadak Jawa pernah menjadi salah satu badak yang tersebar luas di Asia, di mana populasinya tersebar luas di Asia Tenggara, India, dan Tiongkok. Kini, status badak Jawa adalah terancam kritis karena populasinya yang sedikit di alam bebas dan ketiadaannya di kebun binatang manapun. Badak Jawa kemungkinan adalah mamalia terlangka di bumi.[3] Terdapat 50-60 badak Jawa yang hidup di Taman Nasional Ujung Kulon, Banten, Indonesia. Populasi badak Jawa di Taman Nasional Cat Tien, Vietnam dinyatakan punah di 2011.[4] Berkurangnya populasi badak Jawa dapat diakibatkan oleh pemburuan, terutama karena culanya yang dianggap berharga dalam pengobatan tradisional Tionghoa, yang dapat bernilai AS$30.000 per kilogram di pasar gelap.[3]\r\n\r\nBerkurangnya populasi badak ini juga disebabkan oleh kehilangan habitat, yang terutama diakibatkan oleh perang, seperti perang Vietnam di Asia Tenggara juga menyebabkan berkurangnya populasi badak Jawa dan menghalangi pemulihan.[5] Tempat yang tersisa hanya berada di dua daerah yang dilindungi, tetapi badak Jawa masih berada pada risiko diburu, peka terhadap penyakit dan menciutnya keragaman genetik menyebabkannya terganggu dalam berkembang biak. WWF Indonesia mengusahakan untuk mengembangkan kedua bagi badak Jawa karena jika terjadi serangan penyakit atau bencana alam seperti tsunami, letusan gunung berapi Krakatau dan gempa bumi, populasi badak Jawa akan langsung punah.[6] Selain itu, karena invasi langkap (arenga) dan kompetisi dengan banteng untuk ruang dan sumber, maka populasinya semakin terdesak.[6] Kawasan yang diidentifikasikan aman dan relatif dekat adalah Taman Nasional Halimun di Gunung Salak, Jawa Barat yang pernah menjadi habitat badak Jawa.[6]\r\n\r\nBadak Jawa dapat hidup selama 30-45 tahun di alam bebas. Badak ini hidup di hutan hujan dataran rendah, padang rumput basah dan daerah daratan banjir besar. Badak Jawa kebanyakan bersifat tenang, kecuali untuk masa kenal-mengenal dan membesarkan anak, walaupun suatu kelompok kadang-kadang dapat berkumpul di dekat kubangan dan tempat mendapatkan mineral. Badak dewasa tidak memiliki hewan pemangsa sebagai musuh. Badak Jawa biasanya menghindari manusia, tetapi akan menyerang manusia jika merasa diganggu. Peneliti dan pelindung alam jarang meneliti binatang itu secara langsung karena kelangkaan mereka dan adanya bahaya mengganggu sebuah spesies terancam. Peneliti menggunakan kamera dan sampel kotoran untuk mengukur kesehatan dan tingkah laku mereka. Badak Jawa lebih sedikit dipelajari daripada spesies badak lainnya.",
+    "publish": "2022-11-28T03:52:58Z",
+    "created": "2022-11-28T03:53:17.735Z",
+    "updated": "2022-11-28T03:53:17.735Z",
+    "status": "draft"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 5,
+  "fields": {
+    "title": "Covid-19",
+    "slug": "covid-19",
+    "author": 2,
+    "body": "Pandemi Covid-19 adalah peristiwa menyebarnya Penyakit koronavirus 2019 (Bahasa Inggris: Coronavirus disease 2019, disingkat Covid-19) di seluruh dunia untuk semua negara. Penyakit ini disebabkan oleh virus korona jenis baru yang diberi nama SARS-CoV-2.[3] Wabah Covid-19 pertama kali dideteksi di Kota Wuhan, Hubei, Tiongkok pada tanggal 31 Desember 2019, dan ditetapkan sebagai pandemi oleh Organisasi Kesehatan Dunia (WHO) pada tanggal 11 Maret 2020.[4] Hingga 14 November 2020, lebih dari 53.281.350 orang (kasus) telah dilaporkan lebih dari 219 negara dan wilayah seluruh dunia, mengakibatkan lebih dari 1.301.021 orang meninggal dunia dan lebih dari 34.394.214 orang sembuh.\r\n\r\nVirus SARS-CoV-2 diduga menyebar di antara orang-orang terutama melalui percikan pernapasan (droplet) yang dihasilkan selama batuk.[5][6][7][8] Percikan ini juga dapat dihasilkan dari bersin dan pernapasan normal. Selain itu, virus dapat menyebar akibat menyentuh permukaan benda yang terkontaminasi dan kemudian menyentuh wajah seseorang.[7] Penyakit Covid-19 paling menular saat orang yang menderitanya memiliki gejala, meskipun penyebaran mungkin saja terjadi sebelum gejala muncul.[9] Periode waktu antara paparan virus dan munculnya gejala biasanya sekitar lima hari, tetapi dapat berkisar dari dua hingga empat belas hari.[8][10] Gejala umum di antaranya demam, batuk, dan sesak napas.[8][10] Komplikasi dapat berupa pneumonia dan penyakit pernapasan akut berat. Tidak ada vaksin atau pengobatan antivirus khusus untuk penyakit ini. Pengobatan primer yang diberikan berupa terapi simtomatik dan suportif. Langkah-langkah pencegahan yang direkomendasikan di antaranya mencuci tangan, menutup mulut saat batuk, menjaga jarak dari orang lain, serta pemantauan dan isolasi diri untuk orang yang mencurigai bahwa mereka terinfeksi.[7][8][11]\r\n\r\nUpaya untuk mencegah penyebaran virus corona termasuk pembatasan perjalanan, karantina, pemberlakuan jam malam, penundaan dan pembatalan acara, serta penutupan fasilitas. Upaya ini termasuk karantina Hubei, karantina nasional di Italia dan di tempat lain di Eropa, serta pemberlakuan jam malam di Tiongkok dan Korea Selatan,[12][13] [14] berbagai penutupan perbatasan negara atau pembatasan penumpang yang masuk,[15][16] penapisan di bandara dan stasiun kereta,[17] serta informasi perjalanan mengenai daerah dengan transmisi lokal.[18][19][20] [21][22] Sekolah dan universitas telah ditutup baik secara nasional atau lokal di lebih dari 124 negara dan memengaruhi lebih dari 1,2 miliar siswa.[23]\r\n\r\nPandemi ini telah menyebabkan gangguan sosioekonomi global,[24] penundaan atau pembatalan acara olahraga dan budaya,[25] dan kekhawatiran luas tentang kekurangan persediaan barang yang mendorong pembelian panik.[26][27] Misinformasi dan teori konspirasi tentang virus telah menyebar secara daring,[28][29] dan telah terjadi insiden xenofobia dan rasisme terhadap orang Tiongkok dan orang-orang Asia Timur atau Asia Tenggara lainnya.[30]",
+    "publish": "2021-08-15T03:54:08Z",
+    "created": "2022-11-28T03:56:08.090Z",
+    "updated": "2022-12-24T12:26:47.103Z",
+    "status": "published"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 6,
+  "fields": {
+    "title": "Konstitusi",
+    "slug": "konstitusi",
+    "author": 2,
+    "body": "Pengertian konstitusi secara umum adalah asas-asas dasar serta hukum suatu bangsa, negara atau kelompok sosial. Di mana yang menentukan kekuasaan, tugas pemerintah dan menjamin hak-hak tertentu bagi warganya. bagi sebuah negara, konstitusi merupakan kumpulan doktrin serta praktik yang membentuk prinsip pengorganisasian fundamental.\r\n\r\nPengertian Konstitusi Menurut Ahli\r\nAda beberapa pengertian konstitusi menurut para ahli. Berikut di antaranya:\r\n\r\na. Bolingbroke\r\nPengertian konstitusi adalah sekumpulan kaidah-kaidah hukum, institusi-institusi dan kebiasaan-kebiasaan. Yang diambil dari asas penalaran tertentu serta berisikan sistem umum atas dasar nama masyarakat itu sepakat atau setuju untuk diperintah.\r\n\r\nb. K. C. Wheare\r\nKonstitusi merupakan keseluruhan sistem ketatanegaraaan suatu negara yang berupa kumpulan peraturan yang membentuk, mengatur atau memerintah dalam pemerintahan suatu negara.\r\n\r\nc. Jimly Asshiddiqie\r\nPengertian konstitusi yakni hukum dasar yang dijadikan pegangan dalam penyelenggaraan suatu negara. Konstitusi juga dapat berupa hukum dasar tertulis yang biasa disebut Undang-Undang Dasar serta dapat pula tidak tertulis.\r\n\r\nd. E. C. Wade\r\nKonstitusi yaitu suatu naskah yang memaparkan rangka serta tugas pokok dari badan pemerintahan suatu negara. Selain itu juga menentukan pokok-pokok cara kerja badan tersebut.\r\n\r\ne. Miriam Budiarjo\r\nPengertian konstitusi adalah keseluruhan peraturan. Baik tertulis maupun tidak tertulis yang mengatur secara mengikat cara-cara bagaimana suatu pemerintah diselenggarakan dalam suatu masyarakat.",
+    "publish": "2022-11-28T04:05:45Z",
+    "created": "2022-11-28T04:06:19.507Z",
+    "updated": "2022-12-26T03:15:33.651Z",
+    "status": "published"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 7,
+  "fields": {
+    "title": "Karl Marx Theory",
+    "slug": "karl-marx-theory",
+    "author": 1,
+    "body": "Menurut Marx, sejarah masyarakat manusia adalah sejarah perjuangan kelas, yang mana melahirkan kelompok borjuis dan kelompok proletar. Kelompok-kelompok yang menyadari bahwa posisinya berada pada kaum proletar, kala itu mereka dengan sadar melakukan berbagai macam upaya pemberontakan terhadap kaum borjuis. Konflik antarkelas inilah yang kemudian melahirkan perubahan dalam masyarakat. Menurut Marx pula, suatu saat kaum proletar akan memenangkan perjuangan kelas ini yang kemudian akan melahirkan masyarakat tanpa kelas.\r\n\r\nMasih dalam perspektif Marx memandang konflik, ia mengembangkan teori konflik dengan beberapa konsepsi yakni konsepsi tentang kelas sosial, perubahan sosial, kekuasaan dan negara dimana konsepsi-konsepsi tersebut saling berkesinambungan satu sama lain.\r\n\r\nNegara tentunya memiliki kepentingan, oleh karenanya hal ini dimanfaatkan oleh para kaum borjuis. Kelompok borjuis yang tentunya dapat memiliki dan juga memegang kendali atas alat-alat produksi tentu meminta legitimasi atau bukti kepemilikan yang sah. Bukti kepemilikan ini bisa didapatkan melalui negara.\r\n\r\nOleh karena itu, kelompok borjuis memiliki kekuasaan untuk menentukan apa yang akan diproduksi dan didistribusi. Menurut Marx, dalam konteks ini hukum dan pemerintah lebih banyak berpihak pada kaum borjuis dibanding proletar.\r\n\r\nTeori konflik ini kemudian memunculkan apa yang dinamakan sebagai perspektif konflik. Perspektif ini melihat masyarakat sebagai sesuatu yang selalu berubah, terutama sebagai akibat dari dinamika pemegang kekuasaan yang terus berusaha menjaga dan meningkatkan posisinya.\r\n\r\nDalam mencapai tujuannya, suatu kelompok seringkali harus mengorbankan kelompok lain. Karena itu konflik selalu muncul, dan kelompok yang tergolong kuat setiap saat selalu berusaha meningkatkan posisinya dan memelihara dominasinya.\r\n\r\nSingkatnya, pandangan ini berorientasi pada struktur sosial dan lembaga-lembaga sosial di masyarakat. Perspektif ini memandang masyarakat yang terus-menerus berubah dan masing-masing bagian dalam masyarakat berpotensi untuk menciptakan perubahan sosial. Dalam konteks pemeliharaan tatanan sosial, perspektif ini lebih menekankan pada peranan kekuasaan.\r\n\r\nKarl Marx memandang bahwa teori konflik lahir dengan beberapa konsepsi yakni konsepsi tentang kelas sosial, perubahan sosial, kekuasaan dan negara dimana konsepsi-konsepsi tersebut saling berkesinambungan satu sama lain.",
+    "publish": "2022-11-28T05:37:20Z",
+    "created": "2022-11-28T05:40:52.315Z",
+    "updated": "2022-12-26T03:15:42.776Z",
+    "status": "published"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 8,
+  "fields": {
+    "title": "Markdown Post",
+    "slug": "markdown-post",
+    "author": 2,
+    "body": "Post ini di formatkan dengan bentuk markdown\r\n- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - \r\n\r\n*kalimat ini miring* dan **kalimat ini ditebalkan**\r\n\r\nHere is a list:\r\n\r\n* satu\r\n* dua\r\n* tiga\r\n\r\ndan juga [link Django website](https://www.djangoproject.com/)",
+    "publish": "2022-12-29T07:15:02Z",
+    "created": "2022-12-29T07:15:18.439Z",
+    "updated": "2022-12-29T07:18:59.221Z",
+    "status": "published"
+  }
+},
+{
+  "model": "blog.comment",
+  "pk": 1,
+  "fields": {
+    "post": 4,
+    "name": "Asrofil",
+    "email": "asrofilnadibs28@gmail.com",
+    "body": "initial comment for a post",
+    "created": "2022-12-24T12:53:21.344Z",
+    "updated": "2022-12-24T14:02:36.395Z",
+    "active": true
+  }
+},
+{
+  "model": "blog.comment",
+  "pk": 2,
+  "fields": {
+    "post": 5,
+    "name": "Asrofil",
+    "email": "asrofilnadibs28@gmail.com",
+    "body": "initial Comment",
+    "created": "2022-12-24T13:56:41.391Z",
+    "updated": "2022-12-24T14:02:39.676Z",
+    "active": false
+  }
+},
+{
+  "model": "blog.comment",
+  "pk": 3,
+  "fields": {
+    "post": 5,
+    "name": "Asrofil",
+    "email": "asrofilnadibs28@gmail.com",
+    "body": "initial Comment",
+    "created": "2022-12-24T13:57:18.641Z",
+    "updated": "2022-12-24T13:57:18.641Z",
+    "active": true
+  }
+},
+{
+  "model": "blog.comment",
+  "pk": 4,
+  "fields": {
+    "post": 6,
+    "name": "Nadib",
+    "email": "somethingforu09@gmail.com",
+    "body": "i don't know that...",
+    "created": "2022-12-24T13:58:23.171Z",
+    "updated": "2022-12-24T13:58:23.171Z",
+    "active": true
+  }
+},
+{
+  "model": "blog.comment",
+  "pk": 5,
+  "fields": {
+    "post": 7,
+    "name": "something",
+    "email": "somethingforu09@gmail.com",
+    "body": "terima kasih atas informasinya, sangat membantu. Dan keep going membuat artikel",
+    "created": "2022-12-24T13:59:48.775Z",
+    "updated": "2022-12-24T13:59:48.775Z",
+    "active": true
+  }
+},
+{
+  "model": "blog.comment",
+  "pk": 6,
+  "fields": {
+    "post": 5,
+    "name": "Nadib",
+    "email": "asrofilnadibs28@gmail.com",
+    "body": "Informasi yang sangat bagus..",
+    "created": "2022-12-29T06:36:47.600Z",
+    "updated": "2022-12-29T06:36:47.600Z",
+    "active": true
+  }
+},
+{
+  "model": "blog.comment",
+  "pk": 7,
+  "fields": {
+    "post": 6,
+    "name": "something",
+    "email": "somethingforu09@gmail.com",
+    "body": "Sangat bermanfaat...",
+    "created": "2022-12-29T06:38:03.276Z",
+    "updated": "2022-12-29T06:38:03.276Z",
+    "active": true
+  }
+},
+{
+  "model": "blog.comment",
+  "pk": 8,
+  "fields": {
+    "post": 6,
+    "name": "Mohammad",
+    "email": "nadib.nabit@gmail.com",
+    "body": "terima kasih atas informasinya!",
+    "created": "2022-12-29T06:38:44.394Z",
+    "updated": "2022-12-29T06:38:44.394Z",
+    "active": true
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 1,
+  "fields": {
+    "name": "funny",
+    "slug": "funny"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 2,
+  "fields": {
+    "name": "meme",
+    "slug": "meme"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 3,
+  "fields": {
+    "name": "wolf",
+    "slug": "wolf"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 4,
+  "fields": {
+    "name": "memes",
+    "slug": "memes"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 5,
+  "fields": {
+    "name": "ekonom",
+    "slug": "ekonom"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 6,
+  "fields": {
+    "name": "filsuf",
+    "slug": "filsuf"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 7,
+  "fields": {
+    "name": "politik",
+    "slug": "politik"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 8,
+  "fields": {
+    "name": "markdown",
+    "slug": "markdown"
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 1,
+  "fields": {
+    "tag": 1,
+    "content_type": 7,
+    "object_id": 1
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 2,
+  "fields": {
+    "tag": 2,
+    "content_type": 7,
+    "object_id": 1
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 4,
+  "fields": {
+    "tag": 4,
+    "content_type": 7,
+    "object_id": 1
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 5,
+  "fields": {
+    "tag": 5,
+    "content_type": 7,
+    "object_id": 7
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 6,
+  "fields": {
+    "tag": 6,
+    "content_type": 7,
+    "object_id": 7
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 7,
+  "fields": {
+    "tag": 7,
+    "content_type": 7,
+    "object_id": 6
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 8,
+  "fields": {
+    "tag": 7,
+    "content_type": 7,
+    "object_id": 7
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 9,
+  "fields": {
+    "tag": 8,
+    "content_type": 7,
+    "object_id": 8
+  }
+},
+{
+  "model": "sites.site",
+  "pk": 1,
+  "fields": {
+    "domain": "example.com",
+    "name": "example.com"
+  }
+},
+{
+  "model": "sites.site",
+  "pk": 2,
+  "fields": {
+    "domain": "localhost:8000",
+    "name": "localhost:8000"
+  }
+}
+]
